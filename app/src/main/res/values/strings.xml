@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cost Saving Canculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="estimate">Estimate</string>
+    <string name="new_expenditure">New Expenditure</string>
+    <string name="name">Name: </string>
+    <string name="cost">Cost: </string>
+    <string name="description">Description: </string>
+    <string name="button_save">Save</string>
+    <string name="In_Estimate">You´re bellow the estimate</string>
+    <string name="Out_Estimate">You´re above the estimate</string>
+</resources>
